@@ -1,6 +1,6 @@
 {
   "name": "databasemigrationtool",
-  "version": "1.0.0", 
+  "version": "1.0.0",
   "description": "ivancrypto",
   "main": "./src/index.js",
   "scripts": {
@@ -10,11 +10,14 @@
     "type": "git",
     "url": ""
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "authenticationandauthorization": "^1.0.0"
+  }
 }
